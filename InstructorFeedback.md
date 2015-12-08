@@ -9,6 +9,6 @@ Hi Ron, This sounds like a useful application and since you are both the custome
 * I like that you've utilized a real calendar to begin your planning.  To help with that process, make a list of all the tasks that will need to be completed and assign a time estimate to them. Then, take those tasks and get them on the calendar. Here's a start at a list to help you: design UI, design database, document application flow, create database tables, add data to tables, write weekly blog/wiki/status report, design classes, research sending a message (email?) from the application, etc.
 
 * What web service will you be using in your application?
-
+Got a full working SpringMVC CRUD example working, I will use the pom.xml file and maven for to find my .jars 
 * What will your individual research topic/technique/technology be?  One option might be sending email from within the application.
 
