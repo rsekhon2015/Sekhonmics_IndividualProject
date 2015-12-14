@@ -1,0 +1,38 @@
+﻿updated specs
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	deleted:    FormForTenant/javaScriptFiles/newTenant.js
+#	deleted:    FormForTenant/styleSheets/newTenant.css
+#	deleted:    FormForTenant/webPages/newTenant.html
+#	modified:   InstructorFeedback.md
+#	new file:   SekhonmicsCRUD_IndividualProject_V01.01/pom.xml
+#	new file:   SekhonmicsCRUD_IndividualProject_V01.01/src/main/java/com/websystique/springmvc/configuration/AppConfig.java
+#	new file:   SekhonmicsCRUD_IndividualProject_V01.01/src/main/java/com/websystique/springmvc/configuration/AppInitializer.java
+#	new file:   SekhonmicsCRUD_IndividualProject_V01.01/src/main/java/com/websystique/springmvc/configuration/HibernateConfiguration.java
+#	new file:   SekhonmicsCRUD_IndividualProject_V01.01/src/main/java/com/websystique/springmvc/controller/AppController.java
+#	new file:   SekhonmicsCRUD_IndividualProject_V01.01/src/main/java/com/websystique/springmvc/converter/RoleToUserProfileConverter.java
+#	new file:   SekhonmicsCRUD_IndividualProject_V01.01/src/main/java/com/websystique/springmvc/dao/AbstractDao.java
+#	new file:   SekhonmicsCRUD_IndividualProject_V01.01/src/main/java/com/websystique/springmvc/dao/UserDao.java
+#	new file:   SekhonmicsCRUD_IndividualProject_V01.01/src/main/java/com/websystique/springmvc/dao/UserDaoImpl.java
+#	new file:   SekhonmicsCRUD_IndividualProject_V01.01/src/main/java/com/websystique/springmvc/dao/UserProfileDao.java
+#	new file:   SekhonmicsCRUD_IndividualProject_V01.01/src/main/java/com/websystique/springmvc/dao/UserProfileDaoImpl.java
+#	new file:   SekhonmicsCRUD_IndividualProject_V01.01/src/main/java/com/websystique/springmvc/model/User.java
+#	new file:   SekhonmicsCRUD_IndividualProject_V01.01/src/main/java/com/websystique/springmvc/model/UserProfile.java
+#	new file:   SekhonmicsCRUD_IndividualProject_V01.01/src/main/java/com/websystique/springmvc/model/UserProfileType.java
+#	new file:   SekhonmicsCRUD_IndividualProject_V01.01/src/main/java/com/websystique/springmvc/service/UserProfileService.java
+#	new file:   SekhonmicsCRUD_IndividualProject_V01.01/src/main/java/com/websystique/springmvc/service/UserProfileServiceImpl.java
+#	new file:   SekhonmicsCRUD_IndividualProject_V01.01/src/main/java/com/websystique/springmvc/service/UserService.java
+#	new file:   SekhonmicsCRUD_IndividualProject_V01.01/src/main/java/com/websystique/springmvc/service/UserServiceImpl.java
+#	new file:   SekhonmicsCRUD_IndividualProject_V01.01/src/main/resources/application.properties
+#	new file:   SekhonmicsCRUD_IndividualProject_V01.01/src/main/resources/messages.properties
+#	new file:   SekhonmicsCRUD_IndividualProject_V01.01/src/main/webapp/WEB-INF/views/registration.jsp
+#	new file:   SekhonmicsCRUD_IndividualProject_V01.01/src/main/webapp/WEB-INF/views/registrationsuccess.jsp
+#	new file:   SekhonmicsCRUD_IndividualProject_V01.01/src/main/webapp/WEB-INF/views/userslist.jsp
+#	new file:   SekhonmicsCRUD_IndividualProject_V01.01/src/main/webapp/static/css/app.css
+#	new file:   SekhonmicsCRUD_IndividualProject_V01.01/src/main/webapp/static/css/bootstrap.css
+#
+
