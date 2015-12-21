@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="IndividualProjectSekhon:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="IndividualProjectSekhon.war">
+      <element id="artifact" artifact-name="IndividualProjectSekhon:war exploded" />
+    </root>
+  </artifact>
+</component>

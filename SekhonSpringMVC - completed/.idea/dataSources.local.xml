@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - sekhonmics@localhost" uuid="fb821a88-ce0b-4046-b980-c81e25260595">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>sekhonmics.*</schema-pattern>
+      <default-schemas>sekhonmics.*</default-schemas>
+    </data-source>
+  </component>
+</project>
